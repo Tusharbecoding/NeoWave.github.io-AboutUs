@@ -83,6 +83,14 @@ body{
     
 }
 
+#logobottom{
+    height: 50px;
+}
+
+.footercolor{
+    background-color: rgb(9, 1, 48);
+}
+
 #Movies{
     filter: invert(100%);
     height: 270px;
