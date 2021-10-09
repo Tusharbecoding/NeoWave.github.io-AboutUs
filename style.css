@@ -24,7 +24,7 @@ body{
 
 
 .mainback{
-    font-family: 'Retro', '8-Bit';
+    font-family: '8-Bit';
     background-color: rgb(9, 1, 48);
 }
 
@@ -55,7 +55,7 @@ body{
 
 .secnav{
     padding: 6px 20px;
-    font-size: 32px;
+    font-size: 12px;
 }
 
 .nav1 a:hover{
@@ -64,7 +64,7 @@ body{
 }
 
 .nav1{
-    margin-right: 425px;
+     margin-right: 350px;
 }
 
 .nav1 a#active{
@@ -89,6 +89,8 @@ body{
 
 .footercolor{
     background-color: rgb(9, 1, 48);
+    font-family: '8-Bit';
+    font-size: 2px;
 }
 
 #Movies{
