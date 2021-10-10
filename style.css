@@ -102,3 +102,10 @@ body{
     height: 600px;
     width: 1200px;
 }
+.rung{
+    color: yellow;
+}
+
+.click{
+    color:blue;
+}
